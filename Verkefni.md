@@ -38,7 +38,7 @@
    - Tryggja að starfsmaður einnar deildar komist ekki í möppu annarrar deildar.
    - Allir hafa aðgang að sameiginlegri möppu sem mappast sem S: drifbókstafur.
 
-   - ![mynd]("https://media.discordapp.net/attachments/770413099111022625/1240405344316952677/image.png?ex=664670ff&is=66451f7f&hm=2de5d1261309136748438453300c78823fedd4d06effee5385a7dbba6d123fb4&=&format=webp&quality=lossless&width=717&height=579")
+   - ![mynd](https://media.discordapp.net/attachments/770413099111022625/1240405344316952677/image.png?ex=664670ff&is=66451f7f&hm=2de5d1261309136748438453300c78823fedd4d06effee5385a7dbba6d123fb4&=&format=webp&quality=lossless&width=717&height=579)
 
 ### 7. Möppa fyrir stjórnendur á sameiginlega drifinu
    - Á sameiginlega drifinu S: á að vera möppan Stjórnendur.
