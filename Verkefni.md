@@ -1,4 +1,4 @@
-<img width="479" alt="image" src="https://github.com/5Kall/-KEST3WG05DU__LOKAVERKEFNI_V24/assets/97121620/01c02c5b-5ca4-4b5b-a73b-64bf48692b60">### 1. IP-úthlutun og DHCP
+<img width="476" alt="image" src="https://github.com/5Kall/-KEST3WG05DU__LOKAVERKEFNI_V24/assets/97121620/561560b6-d957-4215-8f4b-90295b21b72b"><img width="479" alt="image" src="https://github.com/5Kall/-KEST3WG05DU__LOKAVERKEFNI_V24/assets/97121620/01c02c5b-5ca4-4b5b-a73b-64bf48692b60">### 1. IP-úthlutun og DHCP
    - Stýrikerfið á útstöðinni þarf að fá IP-tölu frá DHCP með netmaskanum 192.168.10.0/24. 
    - LAN IP-talan á servernum á að vera fyrsta nothæfa talan á netinu. 
    - Síðustu 15 tölur netins eru úthlutaðar með DHCP.
@@ -46,9 +46,13 @@
    - Þeir hafa bæði les- og skrifaðgang að möppunni.
    - Möppan skal ekki deila með öðrum.
 
+   - ![security stillingar](https://media.discordapp.net/attachments/770413099111022625/1240406699198644224/image.png?ex=66467242&is=664520c2&hm=e166c45113126c5a4070b79caa6a6d72d9008b09d5d8f9e601884e13e75c03c6&=&format=webp&quality=lossless&width=603&height=479)
+
 ### 8. Firefox uppsetning
    - Allar tölvur eiga að hafa Firefox uppsett.
    - MSI skráin er á \\skra\sameign\win.
+
+   - ![group policy](https://media.discordapp.net/attachments/770413099111022625/1240408393718562916/image.png?ex=664673d6&is=66452256&hm=fdace03081b66372a28843b82b5e9e4189dccf0d29dbd24c5ceb3cb65cdb1597&=&format=webp&quality=lossless&width=717&height=581)
 
 ### 9. Firefox ræsingu takmörkun
    - Starfsmenn í framleiðsludeild eiga ekki að geta ræst Firefox.
@@ -69,8 +73,12 @@
    - Upplýsingar um nafn vélar, IP tölu og stærð minnis á Desktop hverrar notandavigurstöðu.
    - Notaðu BGInfo og logon script til að útfæra þetta.
 
+   - ![upplysingar](https://media.discordapp.net/attachments/770413099111022625/1240410579915771954/image.png?ex=664675df&is=6645245f&hm=3f8ce5937f0e358bd2d34bb618b1f5bebc16a45eaee5135c52aed38f28591a02&=&format=webp&quality=lossless&width=341&height=262)
+
 ### 15. Disknotkunar kvóta
    - Setjið kvóta á 10MB disknotkun hjá öllum notendum.
+
+   - ![Diskanotkunar kvóta](https://media.discordapp.net/attachments/770413099111022625/1240408892912177182/image.png?ex=6646744d&is=664522cd&hm=6603cd78ffc6e3cd09eb53b0c6d3393227cdaa3ba9c2e18d3a47375eb1824f0b&=&format=webp&quality=lossless&width=714&height=578)
 
 ### 16. Internet Explorer ræsingu
    - Þegar notendur í UT tengjast útstöð ræsist Internet Explorer sjálfkrafa.
