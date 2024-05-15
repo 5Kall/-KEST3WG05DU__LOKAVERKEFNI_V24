@@ -3,6 +3,9 @@
    - LAN IP-talan á servernum á að vera fyrsta nothæfa talan á netinu. 
    - Síðustu 15 tölur netins eru úthlutaðar með DHCP.
 
+   - ![Static iptala](https://cdn.discordapp.com/attachments/1166754036557553676/1237425500893478922/image.png?ex=664625cd&is=6644d44d&hm=2d7399abc24325f0d64084d748262a5c305bea6c4af4a74e076c932aea9ec97c&)
+
+
 ### 2. Active Directory skráning yfir starfsmenn
    - Yfirmenn þurfa að skrá sig í Active Directory.
    - Forstjóri er yfirmaður allra deildarstjóra.
