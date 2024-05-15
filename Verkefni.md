@@ -5,7 +5,7 @@
 
    - ![Static iptala](https://cdn.discordapp.com/attachments/1166754036557553676/1237425500893478922/image.png?ex=664625cd&is=6644d44d&hm=2d7399abc24325f0d64084d748262a5c305bea6c4af4a74e076c932aea9ec97c&)
 
-   - ![Dhcp setup]("https://media.discordapp.net/attachments/1166754036557553676/1240392674733850686/image.png?ex=66466533&is=664513b3&hm=d59ee4cef0e10b23d22bdfc4d7fe3e443679b53003eb39f4e686fba5ed93b81e&=&format=webp&quality=lossless&width=987&height=203")
+   - ![Dhcp setup](https://media.discordapp.net/attachments/1166754036557553676/1240392674733850686/image.png?ex=66466533&is=664513b3&hm=d59ee4cef0e10b23d22bdfc4d7fe3e443679b53003eb39f4e686fba5ed93b81e&=&format=webp&quality=lossless&width=987&height=203)
 
 
 ### 2. Active Directory skráning yfir starfsmenn
@@ -13,24 +13,24 @@
    - Forstjóri er yfirmaður allra deildarstjóra.
    - Deildarstjórar eru yfirmenn starfsmanna sinnar deildar.
 
-   - ![Notendur]("https://media.discordapp.net/attachments/770413099111022625/1240394723668004924/Screenshot_2024-05-02_103717.png?ex=6646671b&is=6645159b&hm=902f312436ff52b6adb3ef1c2099721ef3808874d81751160fd1a1f96de348af&=&format=webp&quality=lossless&width=785&height=592")
+   - ![Notendur](https://media.discordapp.net/attachments/770413099111022625/1240394723668004924/Screenshot_2024-05-02_103717.png?ex=6646671b&is=6645159b&hm=902f312436ff52b6adb3ef1c2099721ef3808874d81751160fd1a1f96de348af&=&format=webp&quality=lossless&width=785&height=592)
 
 ### 3. Remote Desktop innritun
    - Allir notendur geta loggað sig inn með Remote Desktop á útstöðina.
 
-   - ![]("https://media.discordapp.net/attachments/770413099111022625/1240397373641850972/image.png?ex=66466993&is=66451813&hm=378147eec7bc9d186c0ecb254619eb1bf3e0592a8231a7a230324eef7e352fca&=&format=webp&quality=lossless&width=502&height=369")
+   - ![](https://media.discordapp.net/attachments/770413099111022625/1240397373641850972/image.png?ex=66466993&is=66451813&hm=378147eec7bc9d186c0ecb254619eb1bf3e0592a8231a7a230324eef7e352fca&=&format=webp&quality=lossless&width=502&height=369)
 
 ### 4. Start Screen í stað Desktop
    - Í UT síu skal sjálfkrafa koma upp Start Screen í stað Desktop þegar tengt er við útstöðina.
 
-   - ![]("https://media.discordapp.net/attachments/770413099111022625/1240396147156320267/image.png?ex=6646686e&is=664516ee&hm=fb9a515be0943e7b669bff972f02fd156ffd5807faff217b207e49322cc81c04&=&format=webp&quality=lossless&width=718&height=581")
+   - ![](https://media.discordapp.net/attachments/770413099111022625/1240396147156320267/image.png?ex=6646686e&is=664516ee&hm=fb9a515be0943e7b669bff972f02fd156ffd5807faff217b207e49322cc81c04&=&format=webp&quality=lossless&width=718&height=581)
 
 ### 5. Eigin möppur og My Documents
    - Hver starfsmaður þarf að fá sína eigin möppu á servernum.
    - My Documents möppa hverrar notanda á að vísa á serverinn.
    - Möppan skal mappast sem H: drifbókstafur.
 
-   - ![moppur]("https://media.discordapp.net/attachments/770413099111022625/1240399599114522644/image.png?ex=66466ba5&is=66451a25&hm=3305efce2aa0496c25b6843ff956409b80597e20273ef7f45113fa5a490e6dd8&=&format=webp&quality=lossless&width=716&height=511")
+   - ![moppur](https://media.discordapp.net/attachments/770413099111022625/1240399599114522644/image.png?ex=66466ba5&is=66451a25&hm=3305efce2aa0496c25b6843ff956409b80597e20273ef7f45113fa5a490e6dd8&=&format=webp&quality=lossless&width=716&height=511)
 
 ### 6. Sameiginlegar möppur og drifbókstafir
    - Hver deild á að eiga sameiginlega möppu á servernum.
