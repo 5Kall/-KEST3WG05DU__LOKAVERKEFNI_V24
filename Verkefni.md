@@ -1,4 +1,4 @@
-<img width="476" alt="image" src="https://github.com/5Kall/-KEST3WG05DU__LOKAVERKEFNI_V24/assets/97121620/561560b6-d957-4215-8f4b-90295b21b72b"><img width="479" alt="image" src="https://github.com/5Kall/-KEST3WG05DU__LOKAVERKEFNI_V24/assets/97121620/01c02c5b-5ca4-4b5b-a73b-64bf48692b60">### 1. IP-úthlutun og DHCP
+### 1. IP-úthlutun og DHCP
    - Stýrikerfið á útstöðinni þarf að fá IP-tölu frá DHCP með netmaskanum 192.168.10.0/24. 
    - LAN IP-talan á servernum á að vera fyrsta nothæfa talan á netinu. 
    - Síðustu 15 tölur netins eru úthlutaðar með DHCP.
