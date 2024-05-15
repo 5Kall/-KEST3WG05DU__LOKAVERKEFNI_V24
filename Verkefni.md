@@ -63,8 +63,12 @@
 ### 11. Favorites í Internet Explorer
    - Linkur á tskoli.is í Favorites möppunni fyrir alla notendur.
 
+   - ![group policy](https://media.discordapp.net/attachments/770413099111022625/1240413288060420096/image.png?ex=66467865&is=664526e5&hm=4088dc3a274462f303cbe1e5317b6cefb8d52d0bdc09368f81a91ef539bb4bea&=&format=webp&quality=lossless&width=716&height=581)
+
 ### 12. Admin réttindi fyrir UT starfsmenn
    - Starfsmenn í UT deild hafa full admin réttindi á öllum útstöðvum.
+
+   - ![UT Deild](https://media.discordapp.net/attachments/770413099111022625/1240412179363008574/image.png?ex=6646775d&is=664525dd&hm=c1ec9bc4b6a00dc2b9e49753ca056222af0a2b42d248fe688086836af847bdd0&=&format=webp&quality=lossless&width=325&height=262)
 
 ### 13. Sýna skráarendingar
    - Öllum notendum þarf að sýna allar skráarendingar (file extensions).
